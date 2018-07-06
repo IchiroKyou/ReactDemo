@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactDemo", "ReactDemo\ReactDemo.csproj", "{DD8529AB-9E2E-44AA-B548-9019775D5BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{E881E741-1ACC-41D9-9690-051B253E7D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4CCA7823-1CE1-4A32-95DF-1BC75E5A78A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,12 @@ Global
 		{DD8529AB-9E2E-44AA-B548-9019775D5BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD8529AB-9E2E-44AA-B548-9019775D5BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD8529AB-9E2E-44AA-B548-9019775D5BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E881E741-1ACC-41D9-9690-051B253E7D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E881E741-1ACC-41D9-9690-051B253E7D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E881E741-1ACC-41D9-9690-051B253E7D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCA7823-1CE1-4A32-95DF-1BC75E5A78A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCA7823-1CE1-4A32-95DF-1BC75E5A78A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCA7823-1CE1-4A32-95DF-1BC75E5A78A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
